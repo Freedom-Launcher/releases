@@ -5,18 +5,17 @@
       "name": "Поделиться логом",
       "author": "Freedom Launcher",
       "description": "Загружает лог игры или отчёт о вылете на mclo.gs и даёт ссылку, которую можно отправить другу или в поддержку.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "hue": 18,
       "permissions": [
-        "instances_read",
         "instance_files",
         "network",
         "ui_pages"
       ],
-      "url": "https://raw.githubusercontent.com/Freedom-Launcher/releases/main/plugins/mclogs-1.0.0.zip",
-      "sha256": "104ea570f50dcdace3e734be25be99966f17e24dbeb75e29e45ab77903e574c8",
-      "size": 3255,
-      "asset": "mclogs-1.0.0.zip",
+      "url": "https://raw.githubusercontent.com/Freedom-Launcher/releases/main/plugins/mclogs-1.1.0.zip",
+      "sha256": "4f048ca8cc5120653665336f81a3ee6eee511d47a22608fcc224e0433d980147",
+      "size": 2398,
+      "asset": "mclogs-1.1.0.zip",
       "issue": 1
     },
     {
@@ -24,17 +23,16 @@
       "name": "Заметки к сборкам",
       "author": "Freedom Launcher",
       "description": "Свои заметки к каждой сборке: координаты, IP серверов, список дел, что поменять в модах. Сохраняются сами.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "hue": 45,
       "permissions": [
-        "instances_read",
         "storage",
         "ui_pages"
       ],
-      "url": "https://raw.githubusercontent.com/Freedom-Launcher/releases/main/plugins/notes-1.0.0.zip",
-      "sha256": "fca47ded61dfd7a0eac2242cec83cb61b270ddbf1ef2bb3a7c1aa306b20dceb1",
-      "size": 2410,
-      "asset": "notes-1.0.0.zip",
+      "url": "https://raw.githubusercontent.com/Freedom-Launcher/releases/main/plugins/notes-1.1.0.zip",
+      "sha256": "8daa538ff55546c384bb01084c979ad8f64b1755a7b1332cb1565c9f5d2bf12d",
+      "size": 3162,
+      "asset": "notes-1.1.0.zip",
       "issue": 2
     }
   ]
